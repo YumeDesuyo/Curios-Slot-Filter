@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.1.1
+
+- Renamed the user-facing project and mod display name to `Curios Slot Filter`
+  (`饰品筛选`).
+- Changed the distributable JAR name to `curios_slot_filter-1.1.1.jar`.
+- Updated the project icon.
+- Kept the technical mod ID `curios_slot_finder` unchanged for save and
+  dependency compatibility.
+
 ## 1.1.0
 
 - Added compatibility with JEI 15.59.

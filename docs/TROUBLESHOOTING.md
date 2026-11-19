@@ -1,14 +1,14 @@
 # 故障排查
 
-## 模组列表中没有 Curios Slot Finder
+## 模组列表中没有 Curios Slot Filter
 
 1. 确认 JAR 位于具体版本目录的 `mods` 文件夹。
 2. 确认游戏版本是 Minecraft 1.20.1、Forge 47.x。
 3. 检查 `logs/latest.log` 中是否存在依赖错误。
 4. 确认 Curios 至少为 5.9.0，JEI 至少为 15.59.0。
 
-当前发行 JAR 的显示名称仍为 `Curios Slot Finder`，技术 Mod ID 为
-`curios_slot_finder`；项目在 GitHub 上使用的新名称为 `Curios Slot Filter`。
+当前发行 JAR 的显示名称为 `Curios Slot Filter`，中文名称为“饰品筛选”，
+技术 Mod ID 仍保持为 `curios_slot_finder`。
 
 ## 游戏启动时报 `javafml:47 or above`
 
@@ -25,7 +25,7 @@
 ## JEI 搜索没有变化
 
 - 确认 JEI 已成功加载。
-- 检查日志中的 `Curios Slot Finder connected to JEI`。
+- 检查日志中的 `Curios Slot Filter connected to JEI`。
 - 如果 JEI 注册失败，模组不会覆盖当前搜索内容。
 
 ## `#ring` 显示石头等非饰品

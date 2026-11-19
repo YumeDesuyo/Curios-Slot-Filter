@@ -16,7 +16,7 @@ public final class CuriosSlotFinder {
     public static final Logger LOGGER = LogUtils.getLogger();
 
     public CuriosSlotFinder(FMLJavaModLoadingContext context) {
-        LOGGER.info("Curios Slot Finder initialized");
+        LOGGER.info("Curios Slot Filter initialized");
         IEventBus modBus = context.getModEventBus();
         modBus.addListener(ClientEvents::registerKeyMappings);
         modBus.addListener(ClientEvents::registerReloadListeners);

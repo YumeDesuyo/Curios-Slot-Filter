@@ -112,8 +112,8 @@ config/curios_slot_finder-client.toml
 正常启动时，`logs/latest.log` 应包含：
 
 ```text
-Curios Slot Finder initialized
-Curios Slot Finder connected to JEI
+Curios Slot Filter initialized
+Curios Slot Filter connected to JEI
 Registered the 'curio' JEI alias for N Curios items
 ```
 

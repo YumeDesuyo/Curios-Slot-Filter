@@ -31,5 +31,6 @@ forge*changelog.txt
 
 # Local-only assets and generated files
 /icon2.png
+/icon3.png
 *.log
 *.disabled

@@ -1,7 +1,7 @@
 {
-  "key.categories.curios_slot_finder": "Curios Slot Finder",
+  "key.categories.curios_slot_finder": "Curios Slot Filter",
   "key.curios_slot_finder.toggle_auto_filter": "Toggle automatic slot filtering",
-  "curios_slot_finder.configuration.title": "Curios Slot Finder",
+  "curios_slot_finder.configuration.title": "Curios Slot Filter",
   "curios_slot_finder.configuration.auto_filter": "Automatically filter when an empty Curios slot is clicked",
   "curios_slot_finder.configuration.clear_on_close": "Clear the filter when the Curios screen closes",
   "curios_slot_finder.configuration.show_results": "Show the slot-finder result panel",
@@ -12,7 +12,7 @@
   "curios_slot_finder.status.all": "This slot allows all Curios",
   "curios_slot_finder.status.no_jei": "JEI is not ready yet",
   "curios_slot_finder.status.no_validator": "No registered validator matched this slot",
-  "curios_slot_finder.results.title": "Curios Slot Finder",
+  "curios_slot_finder.results.title": "Curios Slot Filter",
   "curios_slot_finder.results.slot": "Slot: %s",
   "curios_slot_finder.results.mode.tag": "Rule: Item Tag",
   "curios_slot_finder.results.mode.validators": "Rule: Curios Validator",

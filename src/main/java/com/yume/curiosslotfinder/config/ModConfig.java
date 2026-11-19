@@ -23,7 +23,7 @@ public final class ModConfig {
                 .comment("Restore the previous JEI filter when the Curios screen closes.")
                 .define("clearOnClose", true);
         SHOW_RESULTS = builder
-                .comment("Show the Curios Slot Finder status and validator result panel.")
+                .comment("Show the Curios Slot Filter status and validator result panel.")
                 .define("showResults", true);
         builder.pop();
 

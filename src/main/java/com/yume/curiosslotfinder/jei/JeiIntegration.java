@@ -46,7 +46,7 @@ public final class JeiIntegration implements IModPlugin {
     @Override
     public void onRuntimeAvailable(IJeiRuntime jeiRuntime) {
         runtime = jeiRuntime;
-        CuriosSlotFinder.LOGGER.info("Curios Slot Finder connected to JEI");
+        CuriosSlotFinder.LOGGER.info("Curios Slot Filter connected to JEI");
     }
 
     @Override
