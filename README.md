@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="icon.png" alt="Curios Slot Finder" width="192">
+  <img src="icon.png" alt="Curios Slot Filter" width="192">
 </p>
 
-<h1 align="center">Curios Slot Finder</h1>
+<h1 align="center">Curios Slot Filter · 饰品筛选</h1>
 
 <p align="center">
   点击空的 Curios 饰品槽，快速查看能装备到该槽位的物品。
@@ -14,10 +14,12 @@
 
 ## 简介
 
-Curios Slot Finder 是一个独立、客户端专用的 Minecraft 模组。它与 Curios 和 JEI 联动，
+Curios Slot Filter（饰品筛选）是一个独立、客户端专用的 Minecraft 模组。它与 Curios 和 JEI 联动，
 通过点击空的 Curios 饰品槽执行反向查询，减少在 JEI 中手动搜索饰品的步骤。
 
 模组不会修改服务端逻辑，也不需要安装在服务器上。
+
+技术 Mod ID 保持为 `curios_slot_finder`，以兼容已有配置、日志和依赖关系。
 
 ## 功能
 

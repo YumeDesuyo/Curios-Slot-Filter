@@ -2,8 +2,8 @@ modLoader="javafml"
 loaderVersion="${loader_version_range}"
 license="${mod_license}"
 clientSideOnly=true
-displayURL="https://github.com/YumeDesuyo/Curios-Slot-Finder"
-issueTrackerURL="https://github.com/YumeDesuyo/Curios-Slot-Finder/issues"
+displayURL="https://github.com/YumeDesuyo/Curios-Slot-Filter"
+issueTrackerURL="https://github.com/YumeDesuyo/Curios-Slot-Filter/issues"
 
 [[mods]]
 modId="${mod_id}"

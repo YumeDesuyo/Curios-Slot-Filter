@@ -2,7 +2,7 @@
 
 ## 目标
 
-Curios Slot Finder 将“物品是否适用于某个 Curios 槽位”转换为 JEI 可以展示的搜索条件
+Curios Slot Filter（技术 Mod ID：`curios_slot_finder`）将“物品是否适用于某个 Curios 槽位”转换为 JEI 可以展示的搜索条件
 或匹配结果，同时避免重复扫描整个物品索引。
 
 ## 数据流

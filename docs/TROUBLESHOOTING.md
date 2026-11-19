@@ -7,6 +7,9 @@
 3. 检查 `logs/latest.log` 中是否存在依赖错误。
 4. 确认 Curios 至少为 5.9.0，JEI 至少为 15.59.0。
 
+当前发行 JAR 的显示名称仍为 `Curios Slot Finder`，技术 Mod ID 为
+`curios_slot_finder`；项目在 GitHub 上使用的新名称为 `Curios Slot Filter`。
+
 ## 游戏启动时报 `javafml:47 or above`
 
 该 JAR 被安装到了旧版本整合包。本模组不兼容 1.19.2 的 `javafml:43`。
