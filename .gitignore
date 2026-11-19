@@ -1,0 +1,35 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+
+# Files from Forge MDK
+forge*changelog.txt
+
+# Local MDK reference files
+/LICENSE.txt
+/CREDITS.txt
+/changelog.txt
+
+# Local-only assets and generated files
+/icon2.png
+*.log
+*.disabled
